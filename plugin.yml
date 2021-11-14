@@ -3,7 +3,7 @@ name: TNTTag
 version: 1.7
 api-version: 1.12
 description: TNT Tag
-author: Epic1Online
+author: Anshul Raskar
 commands:
    setspawn:
       description: Sets the spawn at the given coordinates, if no coordinates are provided it sets to your location
